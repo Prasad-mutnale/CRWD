@@ -7,3 +7,4 @@
 ### Day 2-
 - Getting Familiar with em and rem.
 - Why we shouldn't set font-sizes using em.
+### [Day 3.](https://prasad-mutnale.github.io/CRWD/Day-03/challange2/)
