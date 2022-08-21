@@ -12,3 +12,14 @@
 - Completed CSS Units: vh,vw,vmin and vmax.
 
 ### [Day 5](https://prasad-mutnale.github.io/CRWD/Day-05/challenge3/)
+
+### Day 6
+- Review of first week.
+
+### Day 7
+- Submitted the Challenge-3.
+
+## Second week:-
+
+### [Day 8]()
+- Flexbox basics and challenge 01
