@@ -21,5 +21,5 @@
 
 ## Second week:-
 
-### [Day 8]()
-- Flexbox basics and challenge 01
+### [Day 8](https://prasad-mutnale.github.io/CRWD/Day-08/index.html)
+- Flexbox basics and challenge 01 completed.
